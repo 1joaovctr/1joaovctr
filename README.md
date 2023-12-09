@@ -1,8 +1,8 @@
-### Olá mundo!
+### Olá, eu sou o João Victor.
 
-- 🔭 Buscando oportunidade profissional   
-- 📚 Cursando o 4º semestre de Ciência da computação
-- 🧑🏿‍🦱 Ele/dele
+- 🔭 Buscando oportunidade profissional.
+- 📚 Cursando o 4º semestre de Ciência da computação.
+- 🧑🏿‍🦱 Ele/dele.
 
 ##
 
