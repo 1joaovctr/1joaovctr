@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Victor.
 
 - 🔭 Buscando oportunidade profissional.
-- 📚 Cursando o 4º semestre de Ciência da computação.
+- 📚 Cursando o 5º semestre de Ciência da computação.
 - 🧑🏿‍🦱 Ele/dele.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1joaovctr&show_icons=true&theme=midnight-purple)
